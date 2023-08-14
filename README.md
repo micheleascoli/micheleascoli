@@ -1,14 +1,25 @@
-### Oii, eu sou Michele Ascoli 👋
+## Oii, eu sou Michele Ascoli 👋👩🏻‍💻
 
+<a href="https://github.com/micheleascoli/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=micheleascoli" />
+</a>
+<a href="https://github.com/micheleascoli/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=micheleascoli&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+### ❤️ Let's get connected!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/micheleascoli/)
+
+### 🛠 Technologies and Tools I use:
 <div>
-  <a href="https://github.com/micheleascoli/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=micheleascoli&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="micheleascoli github stats" /></a>    
-  <a href="https://github.com/micheleascoli/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micheleascoli&layout=compact&theme=buefy&hide_border=true" /></a>
+  <img align="center" alt="HTML5" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="CSS" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" alt="JavaScript" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="TypeScript" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="AngularJS" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+  <img align="center" alt="Bootstrap" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img align="center" alt="npm" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+  <img align="center" alt="NodeJs" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Android Studio" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
+  <img align="center" alt="VS Code" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </div>
-<br>
-<code><img height="30" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="30" alt="CSS" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/css/css.png" /></code>
-<code><img height="30" alt="HTML" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/html/html.png" /></code>
-<code><img height="30" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
-<code><img height="30" alt="Java" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" /></code>
-<code><img height="30" alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/visual-studio-code/visual-studio-code.png" /></code>
